@@ -1,4 +1,4 @@
-function dividir() {
+function calculo() {
     var n1 = parseFloat(document.getElementById("peso").value);
     var n2 = parseFloat(document.getElementById("altura").value);
     var n3 = n2 * n2;
