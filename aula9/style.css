@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #808080; 
+    color: #ffffff; 
+    font-family: Arial, sans-serif;
+}
+
+.cabecario {
+    background-color: #000000;
+    text-align: center; 
+    padding: 15px;
+}
+
+.cabecario a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+}
+
+.cabecario a:hover {
+    text-decoration: underline;
+}
+
+.logo img {
+    width: 50px;
+    height: auto;  
+}
+h1{
+    text-align: center;
+    background-color: darkslategray;
+    width: 500px;
+    margin:auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    
+    
+}
